@@ -1,0 +1,4 @@
+12/12/2020 21:00;true;ProfessorGirafales;12345678901;fales@gira.com
+P;Rosa; 5;false;false;Vermelha
+S;Tomate;15.0;true;50.0;Granel
+A;Esterco;30.0;true;3;false
