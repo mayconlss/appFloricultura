@@ -18,7 +18,7 @@ public class ArquivoLeitura {
 	public static void main(String[] args) {
 		
 		String dir = "C:/dev/workspace20E4/";
-		String arq = "pedidos.txt";
+		String arq = "vendas.txt";
 
 		try {
 			FileReader leitura = new FileReader(dir+arq);			
